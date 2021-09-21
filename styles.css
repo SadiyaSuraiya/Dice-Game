@@ -1,0 +1,23 @@
+body {
+  background-color: #2C394B;
+  text-align: center;
+}
+h1 {
+  color: #28FFBF;
+  font-family: 'Gluten', cursive;
+  font-size: 5rem;
+  margin-top: 80px;
+  width: auto;
+}
+.dice {
+  color: #28FFBF;
+  display: inline-block;
+  font-family: 'Architects Daughter', cursive;
+  margin: 15px;
+}
+#credit {
+  color: white;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+  margin: 50px;
+}
